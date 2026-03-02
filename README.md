@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I’m currently working on weekly web development projects to sharpen my frontend and backend skills.<br><br>🤝 I’m looking to collaborate on small to mid-scale web apps, open-source projects, and learning-focused builds.<br><br>🤔 I’m looking for help with improving my knowledge and real-world experience in the tech field.<br><br>🌱 I’m currently learning JavaScript and Flutter, focusing on clean code and practical use cases.<br><br>💬 Ask me about web development basics, learning resources, or how I stay consistent with projects.<br><br>⚡ Fun fact: I enjoy turning simple ideas into working projects and learning by building things from scratch.
+💻 I’m currently working on weekly web development projects to sharpen my frontend and backend skills.<br><br>🤝 I’m looking to collaborate on small to mid-scale web apps, open-source projects, and learning-focused builds.<br><br>🤔 I’m looking for help with improving my knowledge and real-world experience in the tech field.<br><br>🌱 I’m currently learning JavaScript and its frameworks, focusing on clean code and practical use cases.<br><br>💬 Ask me about web development basics, learning resources, or how I stay consistent with projects.<br><br>⚡ Fun fact: I enjoy turning simple ideas into working projects and learning by building things from scratch.
 
 
 ## 🌐 Socials:
