@@ -53,7 +53,7 @@
     <td>
       <b>🔗 Link Vault</b><br/>
       A link management system — save, organize, and find your links without the chaos.<br/>
-      <a href="https://github.com/zeena-taste/Link-Vault">repo →</a>
+      <a href="https://github.com/zeena-taste/link_vault">repo →</a>
     </td>
   </tr>
 </table>
