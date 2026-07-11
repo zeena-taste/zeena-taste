@@ -1,5 +1,6 @@
 <h1 align="center">
-  hey, i'm zoe 👋
+  hey, i'm zoe
+  <img src="https://cdn.discordapp.com/emojis/1336311969656995871.webp?size=160&animated=true" width="35" />
 </h1>
 
 <p align="center">
@@ -64,12 +65,12 @@
 ### 📊 stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zeena-taste&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=zeena-taste&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=zeena-taste&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=zeena-taste&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeena-taste&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zeena-taste&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
