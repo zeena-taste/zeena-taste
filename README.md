@@ -50,10 +50,15 @@
 
 <table>
   <tr>
-    <td>
+    <td width="50%">
       <b>🔗 Link Vault</b><br/>
       A link management system — save, organize, and find your links without the chaos.<br/>
       <a href="https://github.com/zeena-taste/link_vault">repo →</a>
+    </td>
+    <td width="50%">
+      <b>📝 Hashtag Notepad</b><br/>
+      A minimalist notepad with collapsible #hashtag sections, markdown support, and a clean organized view.<br/>
+      <a href="[https://github.com/zeena-taste/Hashtag-Notepad">repo →</a>
     </td>
   </tr>
 </table>
